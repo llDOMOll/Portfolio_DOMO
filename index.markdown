@@ -22,7 +22,7 @@ body_class: home-page
   <section class="Portfolio">
     <aside class="side">
       <div class="profile">
-        <img src="{{ '/assets/images/portfolio/profile.jpg' | relative_url }}" alt="Profile Image">
+        <img src="{{ '/assets/images/portfolio/domo01.jpg' | relative_url }}" alt="Profile Image">
         <h1>Shine</h1>
         <p>Portfolio</p>
       </div>
