@@ -3,7 +3,7 @@
    ========================================================================== */
 .hero {
     height: 500px;
-    background-image: url("{{ '/assets/images/portfolio/domo01.jpg' | relative_url }}");
+    background: url("/Portfolio/assets/images/portfolio/domo01.jpg") center;
 }
 
 .hero img {
