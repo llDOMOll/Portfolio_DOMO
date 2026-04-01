@@ -42,6 +42,7 @@ defaults:
       layout: detail
 
 portfolio_filters:
+  - ArtWork
   - Editorial
   - 3D Works
   - Plus ++
