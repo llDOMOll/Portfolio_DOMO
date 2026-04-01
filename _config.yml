@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Shine
-email: zero777960@gmail.com
+title: DOMO
+email: 1004jisucapp@gmail.com
 description: >-
 
-url: "https://shiny-shine.github.io"
-baseurl: "/Portfolio"
+url: "https://lldomoll.github.io"
+baseurl: "/Portfolio_DOMO"
 
-github_username:  Shiny-Shine
+github_username:  llDOMOll
 
 # Build settings
 theme: minima
