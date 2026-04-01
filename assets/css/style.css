@@ -3,7 +3,7 @@
    ========================================================================== */
 .hero {
     height: 500px;
-    background: url("/Portfolio/assets/images/portfolio/domo01.jpg") center;
+    background: url("../images/portfolio/domo01.jpg") center;
 }
 
 .hero img {
