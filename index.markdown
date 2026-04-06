@@ -146,5 +146,5 @@ body_class: home-page
 
 <footer class="site-footer-custom">
   <p>TOP</p>
-  <p>@Copyright 2026 MinCheol Shin. All rights reserved.</p>
+  <p>ⓒCopyright 2026 MinCheol Shin. All rights reserved.</p>
 </footer>
