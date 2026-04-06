@@ -23,7 +23,7 @@ body_class: home-page
     <aside class="side">
       <div class="profile">
         <img src="{{ '/assets/images/portfolio/domo01.jpg' | relative_url }}" alt="Profile Image">
-        <h1>Shine</h1>
+        <h1>DOMO</h1>
         <p>Portfolio</p>
       </div>
 
@@ -31,9 +31,9 @@ body_class: home-page
         <span class="line"></span>
         <ul>
           <li>E-mail<p>{{ site.email }}</p></li>
-          <li>Skills<p>HTML, CSS, JavaScript, Python, C++, Java</p></li>
-          <li>Interests<p>Web Development, Game Development, AI, Machine Learning</p></li>
-          <li>Education<p>Computer Science, Kyonggi University</p></li>
+          <li>Skills<p>Adobe programs, 3DMax, Etc</p></li>
+          <li>Interests<p>UXUI Desige< Illurstration, Game, 3D ArtWork</p></li>
+          <li>Education<p>Communication Design, HYU_Erica</p></li>
         </ul>
         <span class="line"></span>
       </div>
